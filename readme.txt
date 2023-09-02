@@ -1,3 +1,5 @@
+基于FPGA的频谱仪
+
 This project is a spectrometer based on Nexys4DDR.
 This project uses VHDL language and Vivado 2019.1.
 You need to use a VGA monitor to see the output which should be connected to the board.
