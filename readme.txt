@@ -8,3 +8,5 @@ This spectrometer displays the sound signal and its spectrum in real time and Th
 
 To run this porject,first you should open proj\Nexys4Spectral\Nexys4Spectral in Vivado.
 Then just generate bitstream and download into the board.After that,you can see the output in VGA monitor.
+
+Attention,some files maybe useless.However, it does not affect the overall functionality, so don't bother.
